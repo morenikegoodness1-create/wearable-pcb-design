@@ -143,3 +143,62 @@ PCB manufacturing outputs can include:
 Custom wearable PCB projects can be developed around specific product requirements, mechanical constraints, electronic functions, and manufacturing needs.
 
 For collaboration, provide the product requirements, electrical functions, dimensions, components, and manufacturing requirements where available.
+
+
+## PCB Design Portfolio
+
+### Schematic Design
+
+![Wearable PCB Schematic 1](images/01-schematic/wearable_schematic_1.jpeg)
+
+![Wearable PCB Schematic 2](images/01-schematic/wearable_schematic_2.jpeg)
+
+### PCB Layout
+
+![Wearable PCB Layout 1](images/02-pcb-layout/Compact_wearable_PCB_layout%20(1).jpeg)
+
+![Wearable PCB Layout 2](images/02-pcb-layout/Compact_wearable_PCB_layout%20(2).jpeg)
+
+![Wearable PCB Layout 3](images/02-pcb-layout/PCB_Bottom_Layout_Requirements_%20(1).jpeg)
+
+![Wearable PCB Layout 4](images/02-pcb-layout/PCB_Bottom_Layout_Requirements_%20(2).jpeg)
+
+![Wearable PCB Layout 5](images/02-pcb-layout/PCB_layout_top_view%20(1).jpeg)
+
+![Wearable PCB Layout 6](images/02-pcb-layout/PCB_layout_top_view%20(2).jpeg)
+
+### Component Placement
+
+![Component Placement 1](images/03-component-placement/PCB_component_placement_design_view_20260917055443.jpeg)
+
+![Component Placement 2](images/03-component-placement/component_placement_2.jpeg)
+
+![Component Placement 3](images/03-component-placement/component_placement_3.jpeg)
+
+### 3D PCB Views
+
+![3D PCB View 1](images/04-3d-views/3D_PCB_angled_view.jpeg)
+
+![3D PCB View 2](images/04-3d-views/3D_PCB_angled_view_design.jpeg)
+
+![3D PCB View 3](images/04-3d-views/3D_PCB_top_view_%20(1).jpeg)
+
+![3D PCB View 4](images/04-3d-views/3D_PCB_top_view_%20(2).jpeg)
+
+### Manufacturing Documentation
+
+![Manufacturing Documentation](images/05-manufacturing/manufacturing_documentation.jpeg)
+
+### Prototype
+
+![Wearable Prototype 1](images/06-prototype/wearable_prototype_1.jpeg)
+
+![Wearable Prototype 2](images/06-prototype/wearable_prototype_2.jpeg)
+
+![Wearable Prototype 3](images/06-prototype/wearable_prototype_3.jpeg)
+
+![Wearable Prototype 1](https://raw.githubusercontent.com/morenikegoodness1-create/wearable-pcb-design/main/images/06-prototype/Fitness_tracker_prototype_engine..._.jpeg)
+
+![Wearable Prototype 2](https://raw.githubusercontent.com/morenikegoodness1-create/wearable-pcb-design/main/images/06-prototype/Create_wearable_electronics_PCB_..._.jpeg)
+
+![Wearable Prototype 3](https://raw.githubusercontent.com/morenikegoodness1-create/wearable-pcb-design/main/images/06-prototype/Designing_wearable_electronics_P..._20260917055449.jpeg)
